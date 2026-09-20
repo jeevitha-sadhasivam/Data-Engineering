@@ -1,1 +1,9 @@
+Data Engineer
 
+Data engineering is the foundational practice of designing, building, and maintaining the systems and infrastructure that allow organizations to collect, store, process, and deliver reliable data at scale.
+
+Core Concepts
+: Automated workflows—often using ETL (Extract, Transform, Load) or ELT frameworks—that move raw data from various sources into centralized  Architectures like data warehouses, data lakes, and lake houses designed for efficient, secure, and scalable access. The Data Lifecycle: The journey of data from initial requirement gathering and ingestion through cleaning, transformation, and final delivery to data scientists and analysts.
+
+Key Technologies
+Languages: SQL for querying and modeling; Python for automation and data processing. Big Data Tools Distributed processing engines like Apache Spark and streaming platforms like Apache Kafka. Orchestration  Workflow tools like Apache Airflow to schedule and manage data movement.
